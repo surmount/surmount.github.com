@@ -1,6 +1,5 @@
 ---
 layout: post
 title: this blog's sourcecode
-category: misc
 ---
 this blog's sourcecode is https://github.com/Tigraine/www.tigraine.at,
