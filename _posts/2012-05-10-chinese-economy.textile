@@ -1,0 +1,6 @@
+---
+layout: post
+title: chinese economy
+category: misc
+---
+<a href=http://surmount.github.com/chinese-economy.html>click here</a>
